@@ -1,4 +1,4 @@
-# DS201-KatapodExercises
+# Katapod Exercises for DS201
 
 Katapod-based exercises for DS201
 
